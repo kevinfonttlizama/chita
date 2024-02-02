@@ -1,0 +1,27 @@
+to test this proyect
+
+
+1 run bundle install 
+
+or run : 
+
+gem install httparty
+
+
+
+test the proyect and make the request to the API
+
+ruby main.rb 
+
+
+the response should be 
+
+Costo de financiamiento: $14.219
+Giro a recibir: $975.780
+Excedentes: $10.000
+
+
+like the test document expects
+
+
+regards Kevin Fontt 
